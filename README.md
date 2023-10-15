@@ -1,2 +1,2 @@
 # onlinechat
-Simple online chat -only for test - nessary do some change for integration to real project 
+Simple online chat -only for test - need to make a couple of changes for integration to real project 
